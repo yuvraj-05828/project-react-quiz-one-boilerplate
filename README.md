@@ -58,13 +58,13 @@ Your task is to create three components
 So let's get started!
 Check below to see the overall output: You will be trying to replicate this
 
-### PROGRESSION 1 | HOMECOMPONENT
+### PROGRESSION 1 | HOME COMPONENT
 ![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/react-quiz-home.png)
 
-### PROGRESSION 2 | QUIZCOMPONENT
+### PROGRESSION 2 | QUIZ COMPONENT
 ![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/react-quiz-question.png)
 
-### PROGRESSION 3 | RESULTCOMPONENT
+### PROGRESSION 3 | RESULT COMPONENT
 ![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/react-quiz-score.png)
 
 
@@ -74,5 +74,5 @@ If you managed to do it, good job! :trophy:
 
 We are proud of you!
 
-Happy Coding Kalvium ❤️!
+Happy Coding ❤️!
 
